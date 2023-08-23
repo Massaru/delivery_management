@@ -1,0 +1,9 @@
+GET http://localhost:3000/
+
+###
+GET http://localhost:3000/routes
+
+###
+GET http://localhost:3000/routes/10
+
+
